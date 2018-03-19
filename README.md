@@ -1,4 +1,4 @@
 # deleteme
 Test repo
 
-[foo](/deleteme/tree/blah)
+[foo](foo)
